@@ -9,5 +9,3 @@
 🤔 I’m looking for help with improving system design skills and best practices in cloud architecture (.NET on Azure).
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardo-koketu1/) | Email: edukoketu@gmail.com
-
-⚡ Fun fact: I built my first automation tool before even knowing what "DevOps" was — just driven by curiosity and the desire to make work faster and smarter!
