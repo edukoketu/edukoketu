@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Eduardo Koketu!
 
-<!--
-**edukoketu/edukoketu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on automating business processes and building insightful dashboards at a financial institution.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning advanced fullstack development with .NET, C#, SQL, Entity Framework, ASP.NET Core, Blazor, and modern JavaScript frameworks like React and Vue.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on fullstack applications, automation tools, and performance monitoring dashboards.
+
+🤔 I’m looking for help with improving system design skills and best practices in cloud architecture (.NET on Azure).
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardo-koketu1/) | Email: edukoketu@gmail.com
+
+⚡ Fun fact: I built my first automation tool before even knowing what "DevOps" was — just driven by curiosity and the desire to make work faster and smarter!
