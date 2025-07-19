@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on automating business processes and building insightful dashboards at a financial institution.
 
-🌱 I’m currently learning advanced fullstack development with .NET, C#, SQL, Entity Framework, ASP.NET Core, Blazor, and modern JavaScript frameworks like React and Vue.
+🌱 I’m currently learning advanced fullstack development with .NET, C#, SQL, ASP.NET Core and modern JavaScript frameworks like React.
 
 👯 I’m looking to collaborate on fullstack applications, automation tools, and performance monitoring dashboards.
 
